@@ -1,0 +1,18 @@
+{
+  "name": "Dheerj Jain",
+  "type": "personal",
+  "bio": "18yo college dropout turned frontend developer",
+  
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/dheerajmw5",
+      "icon": "FaTwitter"
+    },
+      {
+      "name": "Follow me on Github",
+      "url": "https://github.com/dheerajmw",
+      "icon": "FaGithub"
+    }
+  ]
+}
